@@ -38,7 +38,7 @@ cacheSolve <- function(x, ...) {
   inv
 }
  
-# Output
+# Output for the code
 #m <- matrix(rnorm(9), 3, 3)
 #> s <- makeCacheMatrix(m)
 #> cacheSolve(s)
